@@ -10,6 +10,5 @@ There are a lot of easier ways to accomplish this but I wanted practice using AW
 - Aws Lambda
 - Aws EventBridge(CloudWatch Events)
 - Google Cloud Console - Google Sheets API
-<br>
-<br>
-![](images/Asset 2.png)
+
+![alt text](https://raw.githubusercontent.com/jacobpetersonwastaken/Tempature-Blanket/main/images/Asset%202.png)
