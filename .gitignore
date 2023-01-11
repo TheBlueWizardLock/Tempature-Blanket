@@ -1,0 +1,4 @@
+.env
+tmp/
+credentials.json
+.idea
