@@ -11,10 +11,6 @@ import requests
 import json
 import re
 
-tutorial = "https://www.geeksforgeeks.org/how-to-install-python-packages-for-aws-lambda-layers/"
-docker_to_ecr_lambda = "https://www.youtube.com/watch?v=WuKbZATHzVE"
-
-
 load_dotenv(".env")
 today = str(date.today())
 # If modifying these scopes, delete the file token.json.
